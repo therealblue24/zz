@@ -10,7 +10,7 @@
 // function that given a list size returns a new size to fit more elements
 // used for resizing list
 #ifndef LIST_NEW_SIZE
-#define LIST_NEW_SIZE(size) ((size) + ((size) / 2))
+#define LIST_NEW_SIZE(size) (2 * (size))
 #endif
 
 #ifndef LIST_DEFAULT_SIZE
