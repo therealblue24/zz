@@ -8,8 +8,11 @@
 #include <stdlib.h>
 
 #define zz_str2(x) x
+
+/* stringifies `x` */
 #define xstr(x) zz_str2(#x)
 
+/* converts `x` to `void*` */
 #define type_erase(x) ((void *)(x))
 
 /* calloc(1, size) with error checking */
