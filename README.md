@@ -9,7 +9,7 @@ Inspired by stuff found [here](https://github.com/RealNeGate/Cuik/tree/master/co
 ## Stuff done
 
 <a name="libs"></a>
-header | use |
+Code | Use |
 -------|-----|
 **[base.h](base.h)**, **[base.c](base.c)** | base library
 **[list.h](list.h)** | dynamic lists
