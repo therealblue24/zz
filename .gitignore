@@ -3,3 +3,5 @@ test_priv
 *.o
 compile_flags.txt
 .DS_Store
+bkp
+bin
